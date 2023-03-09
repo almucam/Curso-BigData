@@ -4,3 +4,7 @@
       01 Solución: Soluciones al ejercicios
      -02 Condicionales. Ejercicios Python sobre condiconales.
     
+ * Ejercicios día 2 en Python
+     - 03 Condicionales
+ *Ejercicios día 3:
+    -04 Programación funcional
