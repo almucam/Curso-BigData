@@ -8,3 +8,6 @@
      - 03 Condicionales
  *Ejercicios día 3:
     -04 Programación funcional
+*Ejercicios día 4:
+  -Spark Sesion. Definiciones de Pyspark
+  -Primer RDD
